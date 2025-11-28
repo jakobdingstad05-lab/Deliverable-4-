@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+tests/test_alex.py
+tests/test_dummy.py
+tests/test_environment.py
+tests/test_simulation.py
+walking_home/__init__.py
+walking_home/alex.py
+walking_home/environment.py
+walking_home/simulation.py
+walking_home.egg-info/PKG-INFO
+walking_home.egg-info/SOURCES.txt
+walking_home.egg-info/dependency_links.txt
+walking_home.egg-info/top_level.txt
